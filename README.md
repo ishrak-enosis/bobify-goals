@@ -18,15 +18,16 @@ To use this script, you must have Python installed on your computer. You also ne
 ### **Setup**
 
 1. Create your input data file:  
-   Create a file named goals\_input.csv in the same directory as the script.  
-2. Format the CSV file with the correct header:  
+   Create a file named goals\_input.csv in the same directory as the script.
+   Or use the one provided.
+3. Format the CSV file with the correct header:  
    The input CSV file must have the following header row exactly as shown:  
    ```
    Email,GoalName,KeyResult,Timeframe
    ...
    ```
 
-3. **Populate the goals\_input.csv file** with your data. Each line should contain an email address, a goal name, a key result, and the time frame for the goal.  
+4. **Populate the goals\_input.csv file** with your data. Each line should contain an email address, a goal name, a key result, and the time frame for the goal.  
  Timeframe accepts the following values: Previous quarter, This quarter, This half, Next quarter, Previous year, This year, Next year, Date(MM/DD/YY)
  
    
