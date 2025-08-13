@@ -1,0 +1,36 @@
+Email,GoalName,KeyResult,Timeframe
+user1@example.com,ORM L2,"Complex querying capabilities in ORM (e.g., subqueries, grouping)",This quarter
+user1@example.com,ORM L2,"Transactions, including commit and rollback operations.",This quarter
+user1@example.com,ORM L2,Understand generated Query,This quarter
+user1@example.com,ORM L2,Understand object tracking,This quarter
+user1@example.com,ORM L2,Query optimization strategies,This quarter
+user1@example.com,ORM L2,Lazy Loading & Eager Loading,This quarter
+user1@example.com,ORM L2,Data Seeding,This quarter
+user1@example.com,ORM L2,Debug Migration,This quarter
+user1@example.com,ORM L2,Repository Pattern,This quarter
+user1@example.com,ORM L2,Handle Complex Mapping/Constraints,This quarter
+user1@example.com,ORM L2,Caching,This quarter
+user1@example.com,ORM L2,Unit Test,This quarter
+user1@example.com,ORM L2,Deployment strategies,This quarter
+user2@example.com,Software Design,Design Patterns - Creational Patterns,This quarter
+user2@example.com,Software Design,Design Patterns - Structural Patterns,This quarter
+user2@example.com,Software Design,Design Patterns - Behavioral Patterns,This quarter
+user2@example.com,Software Design,Anti Patterns,This quarter
+user3@example.com,Operating System L1,Basic Shell Scripting,This quarter
+user3@example.com,Operating System L1,File Systems and Storage Basics,This quarter
+user3@example.com,Operating System L1,User and File Permissions Management,This quarter
+user3@example.com,Operating System L1,Package Management,This quarter
+user3@example.com,Operating System L1,Miscellaneous Tools and Tips,This quarter
+user4@example.com,Operating System L2,Advanced Shell Scripting,Next quarter
+user4@example.com,Operating System L2,Service and System Management,Next quarter
+user4@example.com,Operating System L2,Security and Troubleshooting,Next quarter
+user5@example.com,Logging L1,Introduction to logging,This quarter
+user5@example.com,Logging L1,Basic logging concepts,This quarter
+user5@example.com,Logging L1,Different log types,This quarter
+user5@example.com,Logging L1,Log levels,This quarter
+user5@example.com,Logging L1,Logging objects,This quarter
+user5@example.com,Logging L1,Log rotation and retention,This quarter
+user5@example.com,Logging L1,Structured logging,This quarter
+user5@example.com,Logging L1,Logging frameworks/libraries,This quarter
+user5@example.com,Logging L1,Asynchronous logging,This quarter
+user5@example.com,Logging L1,Distributed logging,This quarter
